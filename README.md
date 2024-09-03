@@ -23,13 +23,9 @@ This project is a comprehensive algorithmic trading web application developed in
 
 - **Alpaca API**:
   - [Alpaca Github](https://github.com/alpacahq/alpaca-trade-api-python)
-  - [Examples](https://github.com/alpacahq/alpaca-trade-api-python/tree/master/examples)
-  - [Long-Short Strategy](https://github.com/alpacahq/alpaca-trade-api-python/blob/master/examples/long-short.py)
-  - [200 Day Moving Average Strategy That Crushes Buy and Hold](https://www.newtraderu.com/2021/06/30/200-day-moving-average-vs-buy-and-hold/)
 
 - **Backtesting**:
   - [Backtrader Quickstart](https://backtrader.com/docu/quickstart/quickstart/)
-  - [Invesco QQQ ETF Holdings](https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Investor&ticker=QQQ)
 
 - **Webpage Design**:
   - [Semantic UI Getting Started](https://semantic-ui.com/introduction/getting-started.html)
